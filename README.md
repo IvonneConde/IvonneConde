@@ -1,11 +1,11 @@
 # 💫 About Me:
-👋 Hi there! I'm Ivonne, a passionate web developer with a deep love for programming and a strong background in wellness and alternative health. Currently, I'm actively seeking new opportunities and exploring various courses to broaden my skills in different languages and technologies.<br>
+👋 Hey there! My name is Ivonne. I'm a web developer whos really passionate, about programming. I also have a background in health and wellness. Now I'm actively looking for opportunities and exploring different courses to expand my skills in various languages and technologies.<br>
 
-🌱 I'm currently learning and honing my skills in **React** and **Node.js**.<br>
+🌱 I'm currently focusing on learning **React** and **Node.js** trying to improve my proficiency in these areas.<br>
 
-💼 Previously, I worked at Laboratoria as a Front-End Developer, and now I'm excited to continue growing and contributing to new projects.<br>
+💼 In the past I worked as a Front End Developer at Laboratoria. Now I'm super excited to continue growing and contributing to projects.<br>
 
-🚀 I'm open to collaborations and new experiences! Let's talk about web development, technology, or any interesting projects. If you have any questions or suggestions, please feel free to get in touch. <br><br>
+🚀 I'm always open, to collaborations and new experiences! Lets chat about web development, technology or any exciting projects you might have. Feel free to reach out if you have any questions or suggestions.<br><br>
 
 
 
