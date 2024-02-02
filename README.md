@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! My name is Ivonne. I'm a web developer who has a passion, for programming. I also have a background in health and wellness. Now I'm actively looking for opportunities and exploring different courses to expand my skills in various languages and technologies.<br>
+👋 Hey there! My name is Ivonne. I'm a web developer who has a passion for programming. I also have a background in health and wellness. Now I'm actively looking for opportunities and exploring different courses to expand my skills in various languages and technologies.<br>
 
 🌱 I'm currently focusing on learning **React** and **Node.js** trying to improve my proficiency in these areas.<br>
 
