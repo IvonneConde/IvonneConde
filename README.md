@@ -3,9 +3,9 @@
 
 🌱 I'm currently focusing on learning **React** and **Node.js** trying to improve my proficiency in these areas.<br>
 
-💼 In the past I worked as a Front End Developer at Laboratoria. Now I'm super excited to continue growing and contributing to projects.<br>
+💼 In the past, I gained experience as a Front End Developer at Laboratoria. Now, I'm super excited to continue growing and contributing to projects.<br>
 
-🚀 I'm always open, to collaborations and new experiences! Lets chat about web development, technology or any exciting projects you might have. Feel free to reach out if you have any questions or suggestions.<br><br>
+🚀 I'm always open to collaborations and new experiences! Lets chat about web development, technology or any exciting projects you might have. Feel free to reach out if you have any questions or suggestions.<br><br>
 
 
 
